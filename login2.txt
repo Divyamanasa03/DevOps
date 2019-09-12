@@ -1,5 +1,5 @@
 Int=500
 Int=20
-String="Sri"
+String="Sri2"
 price=100000
-string="NewDev"
+string = "newdev2"
