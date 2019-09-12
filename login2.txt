@@ -1,3 +1,4 @@
 Int=500
 Int=20
 String="Sri"
+cost=1
