@@ -1,4 +1,5 @@
 Int=500
 Int=20
 String="Sri"
+price=100000
 string="NewDev"
