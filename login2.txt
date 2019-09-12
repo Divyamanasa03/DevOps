@@ -1,3 +1,4 @@
 Int=500
 Int=20
-String="Sri"
+String="Sri1"
+price=100000
